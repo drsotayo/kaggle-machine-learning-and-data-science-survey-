@@ -1,6 +1,7 @@
-# kaggle-machine-learning-and-data-science-survey-
+# kaggle-machine-learning-and-data-science-survey
 
-Kaggle is an online community of students, data scientists and machine learning practitioners from around the world. Kaggle allows people to undertake courses, learn, find and publish datasets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. 
+### This notebook mainly uses **Pandas** to manipulate the dataset and **Plotly** for the visualisation due to its interactive features.
+
 
 This year (2021), Kaggle carried out its 5th Machine Learning & Data Science Survey, which received over 25,000 responses from users globally. It covered data science and machine learning questions for students and professionals across several industries, including their educational backgrounds, salaries, sectors, programming languages and techniques and many more. 
 
@@ -28,4 +29,3 @@ Nigeria is a country in West Africa and the most populous country in Africa with
 
 •	What **platforms and media sources** do Nigerian Kagglers use to learn more about data science? 
 
-This notebook mainly uses **Pandas** to manipulate the dataset and **Plotly** for the visualisation due to its interactive features.
