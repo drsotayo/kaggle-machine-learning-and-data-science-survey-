@@ -1,5 +1,7 @@
 # kaggle-machine-learning-and-data-science-survey
 
+The Kaggle version is available here - https://www.kaggle.com/adeayosotayo/2021-kaggle-survey-a-focus-on-nigerian-kagglers
+
 ### This notebook mainly uses **Pandas** to manipulate the dataset and **Plotly** for the visualisation due to its interactive features.
 
 **Author - Dr Adeayo Sotayo**
@@ -9,7 +11,6 @@ You can connect with me on [Twitter](https://twitter.com/drsotayo), [Github](htt
 You can also check out my [personal website](https://www.drsotayo.com/).
 
 An **executive summary** of this notebook is [available here](https://www.drsotayo.com/wp-content/uploads/2021/11/2021-Kaggle-Survey-A-focus-on-Nigerian-Kagglers.pdf). 
-
 
 
 This year (2021), Kaggle carried out its 5th Machine Learning & Data Science Survey, which received over 25,000 responses from users globally. It covered data science and machine learning questions for students and professionals across several industries, including their educational backgrounds, salaries, sectors, programming languages and techniques and many more. 
