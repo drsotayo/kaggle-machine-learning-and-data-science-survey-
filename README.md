@@ -1,4 +1,4 @@
-# kaggle-machine-learning-and-data-science-survey
+# Exploratory Analysis and Visualisation of Nigerian Kagglers using Kaggle's 2021 Data Science and Machine Learning survey
 
 ## Introduction
 
